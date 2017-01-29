@@ -1,0 +1,43 @@
+body {
+	font-family: "PT Sans Narrow";
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #000;	
+}
+
+h1 {
+	font-family: "PT Sans Narrow";
+	font-size: 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #000;
+}
+
+/*.main-header a {
+	color: #fff;
+}*/
+
+.breadcrumbs a {
+	color: #000;
+}
+
+.breadcrumbs li:last-child {
+	color:#aba9a7;
+}
+
+form p {
+	font-size: 24px;
+}
+
+article h2 {
+	font-size: 14px;
+}
+
+.vendor-code {
+	color:#aba9a7;	
+}
+
+/*footer {
+	color: #fff;
+}*/
